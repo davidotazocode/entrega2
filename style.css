@@ -1,0 +1,82 @@
+    
+    .absoluta{
+
+        position: absolute;
+    }
+    .relativa{
+        position: relative;
+
+
+    }
+    .center{
+        text-align: center;
+
+    }
+    .importante{
+
+        font-style: italic;
+        font-size: 28px;
+        font-family: cursive;
+        font-style: italic;
+        padding: 5px;
+       
+        
+    }
+    .lorem{
+    
+        font-size: 14px;
+        font-family: cursive;
+        font-style: italic;
+        padding: 5px;
+        background-color: rgb(236, 230, 230);
+        color: black;
+    }
+    .encabezado{
+        font-size: 35px;;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .musculo{
+        font-size: 35px;;
+        padding: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    .espagueti{
+        padding: 20px;
+        text-align: center;
+    }
+    .titulos{
+        
+        padding-top: 0%;
+        text-align: center;
+        display: flexbox;
+        -ms-flex-align: center;
+        background-color: #9bcfae;
+        grid-template-rows: none;
+    
+    }
+    
+    
+    .dieta{
+        padding: 20px;
+        text-align: center;
+      
+    }
+    .secciones :active{
+    
+        color: red;
+        font-family: fantasy;
+        background-color: blue;
+    
+    }
+    .titulos :hover{
+        background-color: #18df5e;
+        color: #A81B16;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h3{
+        text-align: center;
+    
+    }
+
